@@ -1,0 +1,15 @@
+{
+    "name": "mimol91/time.gif",
+    "type": "PHP endless time gif",
+    "authors": [
+        {
+            "name": "Adam Szaraniec",
+            "email": "mimol91@gmail.com"
+        }
+    ],
+    "optimize-autoloader": true,
+    "require": {},
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
